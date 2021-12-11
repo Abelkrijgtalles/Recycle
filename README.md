@@ -10,5 +10,5 @@ It is made with Pygame
 
 # Install instructions
 
-If you download it from [GitHub](https://github.com/Abelkrijgtalles/Recycle "GitHub") or the *.zip-file from [itch.io](https://abelkrijgtalles.itch.io/recycle "itch.io"), you will need to install Pygame. You can do that by running `pip3 install -r requirements.txt`
+If you download it from [GitHub](https://github.com/Abelkrijgtalles/Recycle "GitHub") or the *.zip-file from [itch.io](https://abelkrijgtalles.itch.io/recycle "itch.io"), you need to run `main.py`.
 If you download the *.exe-file, you are good to go. There is a change that you need to make a `level.txt`-file and in that you need to put `1`, but that's it.
